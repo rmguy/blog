@@ -1,0 +1,195 @@
+<meta name="viewport" content="width=500">
+
+<div id="map" style="width: 600px; height: 350px;"></div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+
+<script src="https://cdn.jsdelivr.net/gh/rmguy/js@master/countries_weapons.js"></script>
+
+<style>
+.legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.5; }
+.leaflet-control-layers-expanded {
+  color: white;
+  background-color: transparent;
+}
+</style>
+
+<script>		
+	// Creating a map object
+	// This is a leaflet api call. Arg 1 is the div id above.  
+    var layer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
+		subdomains: 'abcd',
+		maxZoom: 19
+	});
+	
+	// Creating map options
+	var mapOptions = {
+		// Lat/long
+		center: [41, 12],
+		// zoom level of map
+        zoom: 1,
+		attributionControl: false,
+		layers: [layer]
+	}
+  var map = new L.map('map', mapOptions);
+    
+  // Coloring countries
+	function getColor(d) {
+    	return d > 10000 ? '#045a8d' :
+           d > 5000  ? '#2b8cbe' :
+           d > 999  ? '#74a9cf' :
+           d > 500  ? '#a6bddb' :
+           d > 100   ? '#d0d1e6' :
+           				'#f1eef6';
+	}
+	function style(feature) {
+		return {
+			fillColor: getColor(feature.properties.net),
+			weight: 2,
+			opacity: 0,
+			// color: 'white',
+			// dashArray: '3',
+			fillOpacity: 0.3
+		};
+	}
+
+	L.geoJson(countriesData, {style: style}).addTo(map)
+
+  // Legend creation
+	var legend = L.control({position: 'bottomleft'});
+
+	legend.onAdd = function (map) {
+		var div = L.DomUtil.create('div', 'info legend'),
+			grades = [10, 100, 500, 1000, 5000, 10000],
+			labels = ['<span style="color:white">Defense FDI into India (m$)</span><br>'];
+
+		// loop through our density intervals and generate a label with a colored square for each interval
+		for (var i = 0; i < grades.length; i++) {
+			labels.push(
+				'<i style="background:' + getColor(grades[i] + 1) + '"></i><span style="color: white">' +
+				grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '</span><br>' : '+'));				
+		}
+        	div.innerHTML = labels.join('');
+		return div;
+	};
+
+	legend.addTo(map);
+
+  // Creating Layers for markers
+	var air_brazil_marker = L.marker([-14.2350, -51.9253])
+	var air_brazil = air_brazil_marker.bindPopup('ERJ-145(3)');
+	air_brazil_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_brazil_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+	var air_canada_marker = L.marker([56.1304, -106.3468])
+	var air_canada = air_canada_marker.bindPopup('PT6(85), PW100(112)');
+	air_canada_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_canada_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+	var air_france_marker = L.marker([46.2276, 1.2137])
+	var air_france = air_france_marker.bindPopup('Mirage-2000-5(49), Rafale(36)');
+	air_france_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_france_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+	var air_germany_marker = L.marker([51.165, 10.4515])
+	var air_germany = air_germany_marker.bindPopup('Do-228MP(52)');
+	air_germany_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_germany_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+
+	var air_russia_marker = L.marker([61.5240, 105.3188])
+	var air_russia = air_russia_marker.bindPopup('Su-30MK(182)<br>Mig-29SMT/Fulcrum-F(92)<br>A-50EhI(2)');
+	air_russia_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_russia_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+
+	var air_spain_marker = L.marker([40.4637, -3.7492])
+	var air_spain = air_spain_marker.bindPopup('C-295(56)'); 
+	air_spain_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_spain_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+	var air_switzerland_marker = L.marker([46.8182, 8.2275])
+	var air_switzerland = air_switzerland_marker.bindPopup('PC-7 Turbo Trainer (75)');
+	air_switzerland_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_switzerland_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+	var air_us_marker = L.marker([37.0902, -95.7129])
+	var air_us = air_us_marker.bindPopup('P-8A Poseidon(12), C-130J-30 Hercules(7)');
+	air_us_marker.on('mouseover', function (e) {
+		this.openPopup();
+	});
+	air_us_marker.on('mouseout', function (e) {
+		this.closePopup();
+	});
+
+	var air_countries = L.layerGroup([air_brazil, air_canada, air_france, air_germany, air_russia, air_spain, air_switzerland, air_us]);
+
+	var missile_france = L.marker([46.2276, 2.2137]).bindPopup('MILAN(22250),SM-39 Exocet(36)');
+	var missile_russia = L.marker([61.5240, 105.3188]).bindPopup('9M113 Konkurs/AT-5(40000)<br>PJ-10 BrahMos(1042)<br>9M119 Svir/AT-11(25000)');
+	var missile_us = L.marker([37.0902, -95.7129]).bindPopup('AGM-114K/L Hellfire(1354), FIM-92 Stinger(245), RGM-84L Harpoon-2(12)');
+	var missile_israel = L.marker([31.0461, 34.8516]).bindPopup('Barak-8/ER(1930),Derby(750),Python-5(750)');
+	var missile_countries = L.layerGroup([missile_france, missile_us, missile_russia, missile_israel]);
+
+	var chopper_france = L.marker([46.2276, 2.2137]).bindPopup('SA-315B Lamba(20)');
+	var chopper_russia = L.marker([61.5240, 105.3188]).bindPopup('Ka-226T Sergei(200), Mi-8MT/Mi-17(116),');
+	var chopper_us = L.marker([37.0902, -85.7129]).bindPopup('AH-64E Apache Guardian(28),CH-47F Chinook(15)');
+	var chopper_countries =  L.layerGroup([chopper_france, chopper_russia, chopper_us]);
+
+	var tank_russia = L.marker([61.5240, 105.3188]).bindPopup('T-90S(1000)');
+	var tank_countries = L.layerGroup([tank_russia]);
+
+	var sub_france = L.marker([46.2276, 2.2137]).bindPopup('Scorpene(6)');
+	var sub_russia = L.marker([60, 90.3188]).bindPopup('Project 971I/Akula(1)');
+	var sub_countries = L.layerGroup([sub_france, sub_russia]);
+
+	var chopper_us_profit = L.marker([37.0902, -85.7129]).bindPopup('AH-64E Apache Guardian(28)<br>CH-47F Chinook(15)<br>Sale/Market: 2.02');
+	var missile_israel_profit = L.marker([31.0461, 34.8516]).bindPopup('Barak-8/ER(1930)<br>Derby(750)<br>Python-5(750)<br>Sale/Market: 1.45');
+	var missile_russia_profit = L.marker([51.5240, 105.3188]).bindPopup('9M113 Konkurs/AT-5(40000)<br>PJ-10 BrahMos(1042)<br>9M119 Svir/AT-11(25000)<br>Sale/Market: 1.87');
+	var air_us_profit = L.marker([37.0902, -95.7129]).bindPopup('P-8A Poseidon(12)<br>C-130J-30 Hercules(7)<br>Sale/Market: 1.66');
+	var air_france_profit = L.marker([46.2276, 1.2137]).bindPopup('Mirage-2000-5(49)<br>Rafale(36)<br>Sale/Market: 2.47');
+
+	var profit_deals = L.layerGroup([chopper_us_profit, missile_israel_profit, missile_russia_profit, air_us_profit, air_france_profit]);
+
+	var baseMap = {	
+		"Fighters": air_countries,
+		"Missiles": missile_countries,
+		"Choppers": chopper_countries,
+		"Tanks": tank_countries,
+		"Submarines": sub_countries,
+		"Profit": profit_deals
+	}
+
+	L.control.layers(baseMap, null, {collapsed: false}, {position:'topleft'}).addTo(map);
+
+</script>
+

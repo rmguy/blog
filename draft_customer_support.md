@@ -1,0 +1,4 @@
+Many people believe Google has bad customer service. This is patently false. In fact, customer support is part of the Google Cloud [business model](https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html). Even the open source Kubernetes project has a support [rotation](https://github.com/kubernetes/community/blob/master/contributors/devel/on-call-user-support.md) that scales up into a full blown SRE [rotation](https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html) for GKE. I'm pretty sure this level of commitment is un-precedented in the valley - good luck trying to get a hold of the AWS ELB engineering team when your QPS graphs dip.
+
+If you're using a "free" product like gmail or youtube however, you get little to no support. You're just not the customer, you're the product.
+
