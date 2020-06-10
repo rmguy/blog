@@ -8,14 +8,14 @@ start ululating nonsense into the night.
 It comes out my mouthpiece a throaty chirp. You'd know what that sounds like if 
 you've ever heard a gravitational wave. 
 
-On my home planet we don't listen to songs, songs listen to us. We use them to 
+On my home planet I don't listen to songs, songs listen to me. I use them to 
 preserve our prisoners. 
 
 No, not therapeutically, _literally_. 
 
 Precise decibel levels at precisely the right angles, converted to gravitational 
 waves, keep the erratic g-forces of a trinary star system from playing pool with 
-the planets inbetween. 
+the planets in between. 
 
 Alpha Centauri is a triple star system. Rigil, Toiman and Proxima. They form a 
 minacious love triangle with my planet and its moon at the center. Except the 
