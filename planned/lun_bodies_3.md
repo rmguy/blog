@@ -6,7 +6,7 @@ torch ectoplasm. Just the thought of it was making her sick.
 She looked around, surveying the carnage. If she hadn't looked closely at the 
 bodies till now it was only because she was distracted by the end of her species. 
 Her eyes darted from shoulder to torso to arm, leg, leg.. looking for a pattern, 
-an _MO_, but they were struggling to spot one. 
+some MO, but she was struggling to spot one. 
 
 She'd seen kills. Saying she'd seen kills was like saying a squid'd seen ink. 
 She _breathed_ them. The Marines, Spetsnaz, YAMAM, she'd studied them all and 
