@@ -32,7 +32,11 @@ _Go figure._
 
 Haddie snapped out of her reverie. 
 
-They were in a brightly lit room. The man sitting across Drew had just introduced himself as Riak from the Death Wish Foundation, a non-profit committed to fulfilling the dying wishes of children with terminal conditions. He'd setup a camera to record the process. He'd said it was for impact evaluation, even though Drew hadn't asked. They were prattling on about something. 
+They were in a brightly lit room. The man sitting across Drew had just introduced himself as Riak from the Death Wish Foundation, a non-profit committed to fulfilling the dying wishes of children with terminal conditions. He'd setup a camera to record the process. He'd said it was for impact evaluation, even though Drew hadn't asked. 
+
+Truth was, the Foundation needed full cerebral baseline footage, right down to pupil dilation.
+
+Drew was prattling on about something. 
 
 "I love her, and my wish is to see her settled and happy..".    
 Riak turned the camera off with a grimace.
@@ -43,22 +47,27 @@ _Video edited to cut out retching noises_
 
 "But my mom and dad loved each other", Drew said defensively. 
 
-Riak's smile started and ended at the tips of his eyes, "And then you popped out! See! All we know about Love comes from field data, and all that shows are billions upon billions of the worst gene pairings conceivable. Irrationality, psychosis, mental retardation, suicidal ideations.. all traceable to within one friend request of True Love."
+Riak's smile started and ended at the tips of his eyes, "And then you popped out! See! All we know about Love comes from field data, and all that shows are billions upon billions of the worst gene pairings conceivable. Irrationality, psychosis, mental retardation, suicidal ideations.. all traceable to within one friend request of True Love. In fact, Love is the reason your meat factory is shutting down early."
 
 _Yeah Drew. How about we go to Universal Studios instead?
 Subject: Haddie.
 Death-Wish: fulfilled.
 Details: Saw a Hippogriff, drank Butter Beer, died happy._
 
-"Now tell me, would you prefer I take your fourth finger off today, or after you've put a ring on it?", another fake smile. All Riak's smiles looked the same, like he'd heard a good joke about a dead man at his funeral. 
+Riak poured himself a glass of water with slow hands. 
+"Anyway, your particular neural signature's rare. Developing prefrontal cortex. Dying limbic system. That overlap's a jackpoint in the gray market."
 
-Drew moved his head vertically up and down. Didn't that mean "today" in the present context? Haddie shrugged to herself, though no one was paying her any attention.
+Drew looked at him like someone slowly realizing the man with the clipboard wasn’t here to grant wishes; he was here to collect inventory.
+
+"Now, do you mind if I start from the spine instead of the soft bits?" Riak asked, reaching for his bag. “Timing’s everything, Drew. A living brain’s got magic in it. After death? Just soup.”, another fake smile. All Riak's smiles looked the same, like he’d just heard a joke about a meat locker.
+
+Drew moved his head horizontally, left to right. Didn't that mean "yes" in the present context? Haddie shrugged to herself, though no one was paying her any attention.
 
 Nod or not, Riak wasn't a patient man. He jerked out a switchblade and slammed it down over the tip of Drew's ring finger. Haddie could see a tiny bone stump poking out now.
 
 _Note to parallel-universe-mass-market-paperback-self: open with show-and-tell. Torture in the first act. It's a real crowd pleaser._ 
 
-Drew started screaming and crying at the same time. Riak poured himself a glass of water as the crying cresendoed, then grabbed Drew's shirt and slapped him. A clean backhand converted to a full-blown punch on the reverse swing. For a kid Drew's age, to a jaw that size, the effects were devestating.  
+Drew was screaming now, wet and hoarse. Riak took a sip from his water glass, then casually backhanded the boy. The reverse swing connected jaw to wall. For a kid Drew's age, to a jaw that size, the effects were devestating.  
 
 "Child shut your mouth. Do you remember what we discussed?"
 
@@ -67,14 +76,21 @@ Drew nodded.
 Riak rewound the tape and flipped the recorder back on.
 
 "What is your wish little one?"
-
+and
 Riak mouthed the words he needed from Drew off screen. 
 
 "W.. World Peace" Drew said, through swollen and bloodied lips.
 
-"That wasn't so hard now was it you little bastard", Riak said cutting the feed. He'd probably get a few grand in funding from this cute video alone. The problem was keeping Drew quite till he croaked, not a problem Riak wished to solve at leisure. 
+"That wasn't so hard now was it you little bastard", Riak said cutting the feed. He'd probably get a few grand in funding from this cute video alone. 
 
-As Riak pulled a pistol out and aimed it at Drew's head, Haddie stepped out of her shadowy corner; a dark form with white-lidded-hypnotic eyes. 
+The problem was waiting, waiting long enough for Drew’s frontal lobe to process the pain completely, but not long enough for necrosis. This was the window. Anything after this was waste.
+
+He popped open the cooler he'd brought with him. Chrome casing, bio-lock seals, cryogenic foam hissing beneath layered compartments. Labeled neatly:
+"Subject #3427 – Type: Cerebral."
+
+He pulled out a neuro-cap with suction nodes and began untangling the tubes. "Cortexes degrade fast. We're on the clock."
+
+Then Riak pulled a pistol out and aimed it at Drew. That's when Haddie stepped out of her corner; a dark form with white-lidded-hypnotic eyes. 
 
 A Scythe intervening with happenings in the three dimensional world was rare. A Haddie intervening, even more so. But Haddie needed Drew's brains intact and this imbicile was going to blow them all across the shiny stainless.
 
