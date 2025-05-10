@@ -21,24 +21,29 @@ _Act 1, Scene 1: Death by Red Pill_
 
 Haddie had been trying to learn funny lately. Cats said it was a vital part of "hobnobbery", so she was subtitling everything in her head. She didn't understand the difference between her-funny and them-funny yet, though she was sure it was of some consequence to him.  
 
-_An old joke: Boy meets girl at mom's funeral. Instant chemistry. Girl leaves unexpectedly. Boy searches around for a few days, no luck._
+_An old joke: Boy meets girl at dad's funeral. Instant chemistry. Girl leaves unexpectedly. Boy searches around for a few days, no luck._
 
 How does this end?
 
-_Them-funny: Boy tells therapist. Therapist says: "Maybe try Tinder?". Boy says: "Hmm.. do they have a bereavement filter?".. Big joke._ 
+_Them-funny: Boy tells therapist.     
+Therapist says: "Maybe try Tinder instead?"    
+Boy says: "Hmm.. do they have a bereavement filter?"..     
+Big joke._     
 
-_Her-funny: Boy gets home. Only later realizes.. it wasn't his mom's funeral._
+_Her-funny: Boy gets home. Only later realizes.. it wasn't his dad's funeral._    
 _Go figure._
 
 Haddie snapped out of her reverie. 
 
-They were in a brightly lit room. The man sitting across Drew had just introduced himself as Riak from the Death Wish Foundation, a non-profit committed to fulfilling the dying wishes of children with terminal conditions. He'd setup a camera to record the process. He'd said it was for impact evaluation, even though Drew hadn't asked. 
+They were in a brightly lit room. The man sitting across Drew had just introduced himself as Riak from the Death Wish Foundation, a non-profit committed to fulfilling the dying wishes of children with terminal conditions. Most often these wishes also involved the transfer of deeds and insurance to the next of kin. 
+
+He'd setup a camera to record the process. He'd said it was for impact evaluation, even though Drew hadn't asked. 
 
 Truth was, the Foundation needed full cerebral baseline footage, right down to pupil dilation.
 
 Drew was prattling on about something. 
 
-"I love her, and my wish is to see her settled and happy..".    
+"He's dead now. I love her, and my wish is to see her settled and happy..".    
 Riak turned the camera off with a grimace.
 
 _Video edited to cut out retching noises_
@@ -49,15 +54,15 @@ _Video edited to cut out retching noises_
 
 Riak's smile started and ended at the tips of his eyes, "And then you popped out! See! All we know about Love comes from field data, and all that shows are billions upon billions of the worst gene pairings conceivable. Irrationality, psychosis, mental retardation, suicidal ideations.. all traceable to within one friend request of True Love. In fact, Love is the reason your meat factory is shutting down early."
 
-_Yeah Drew. How about we go to Universal Studios instead?
-Subject: Haddie.
-Death-Wish: fulfilled.
-Details: Saw a Hippogriff, drank Butter Beer, died happy._
+_Yeah Drew. How about we go to Universal Studios instead?    
+Subject: Haddie.    
+Death-Wish: fulfilled.    
+Details: Saw a Hippogriff, drank Butter Beer, died happy._    
 
 Riak poured himself a glass of water with slow hands. 
-"Anyway, your particular neural signature's rare. Developing prefrontal cortex. Dying limbic system. That overlap's a jackpoint in the gray market."
+"Anyway, your particular neural signature's rare. Prefrontal cortex still wiring up. Hippocampus already degrading. That overlap? Delusions, memory glitches, emotional volatility - pure gold in the gray market".
 
-Drew looked at him like someone slowly realizing the man with the clipboard wasn’t here to grant wishes; he was here to collect inventory.
+Drew stared at him in fright, slowly realizing the man with the clipboard was collecting inventory, not insurance.  
 
 "Now, do you mind if I start from the spine instead of the soft bits?" Riak asked, reaching for his bag. “Timing’s everything, Drew. A living brain’s got magic in it. After death? Just soup.”, another fake smile. All Riak's smiles looked the same, like he’d just heard a joke about a meat locker.
 
@@ -75,32 +80,48 @@ Drew nodded.
 
 Riak rewound the tape and flipped the recorder back on.
 
-"What is your wish little one?"
-and
-Riak mouthed the words he needed from Drew off screen. 
+"What is your wish little one?" and Riak mouthed the words he needed from Drew off screen. 
 
-"W.. World Peace" Drew said, through swollen and bloodied lips.
+"To.. To give my body to science" Drew said, through swollen and bloodied lips.
 
-"That wasn't so hard now was it you little bastard", Riak said cutting the feed. He'd probably get a few grand in funding from this cute video alone. 
+"That wasn't so hard now was it you little bastard", Riak said cutting the feed. 
 
-The problem was waiting, waiting long enough for Drew’s frontal lobe to process the pain completely, but not long enough for necrosis. This was the window. Anything after this was waste.
+The problem was waiting, waiting long enough for Drew’s frontal lobe to access the pain completely, but not long enough for necrosis. This was the window. Anything after this was waste. Anything before, premature. 
 
 He popped open the cooler he'd brought with him. Chrome casing, bio-lock seals, cryogenic foam hissing beneath layered compartments. Labeled neatly:
 "Subject #3427 – Type: Cerebral."
 
 He pulled out a neuro-cap with suction nodes and began untangling the tubes. "Cortexes degrade fast. We're on the clock."
 
-Then Riak pulled a pistol out and aimed it at Drew. That's when Haddie stepped out of her corner; a dark form with white-lidded-hypnotic eyes. 
+Each wire was labeled, color-coded, and trembling with tiny pulses like it couldn't wait to latch on to the meat. 
 
-A Scythe intervening with happenings in the three dimensional world was rare. A Haddie intervening, even more so. But Haddie needed Drew's brains intact and this imbicile was going to blow them all across the shiny stainless.
+Riak reached into his coat and pulled out a matte-black pistol, the kind made for silence and exits. He leveled it at Drew with the calm of someone checking off a list. 
+
+"Optimal harvest window: 6 minutes, 12 seconds", he muttered, eyes flicking across the display. Then, without looking up, he nodded to the neuro-cap - "strap it on".
+
+That's when Haddie stepped out of the wall. Not _through_ it, but _from_ it, like she'd been printed into a tile and someone hit "unflatten". A dark figure with white-lidded, hypnotic eyes. She moved like a memory the room had just remembered. She wasn't there before, but now, it was impossible to look anywhere else. 
+
+A Scythe meddling with three-dimensional affairs was rare.     
+A Haddie meddling? Almost unheard of.     
+But she needed Drew's brains intact, gray matter sealed, neural architecture undisturbed, and this imbecile was about to put a bullet through it. In seconds, the whole cranium would turn into a pressure-cooked omlet. Messy bone fragments mixing into half boiled tissue.
+Sloppy. Wasteful. Almost offensive.     
 
 _She brought her scythe down in a clean stroke of mercy, slashing the frenzied social worker from shoulder to navel._
 
-A Haddie joke. Of course that's now how it happened. 
+A Haddie joke. Of course that's not how it happened. 
 
-Haddie walked up behind Riak. In 4-space Riak's head looked more like a demicube than a sphere. She tore through a chunk of it with her scythe and yanked his brain out in-tact, dropping it into the support system she'd brought for Drew. Cats would just have to make do with an adult-psycho brain for now. 
+Hadding approached soundlessly. In 4-space, Riak's head wasn't a sphere but a twisted demicube, angles and folds impossible to untangle.     
+She slipped the scythe through a seam only she could see, pried loose a chunk of the skull and yanked the brain out whole. Still pulsing, still twitching.     
+She dropped it into the cryo-support unit he'd brought for Drew.     
+Cats would just have to make do with a middle-aged psychopath's connectome instead.     
 
-As she left, she swiveled around and waved at Drew.
+At least she'd found the problem in their supply chain. 
+
+As she left, she swiveled around and waved at Drew, shaking, bloodied, wide-eyed like some half-dead animal.     
+"Relax, kid", she said, voice like velvet tearing.     
+"You're not the rare one. Just the decoy."    
+Then, almost kindly:     
+"Go home. It wasn't your dad's funeral."    
 
 _We are simple creatures. All we want is death and fish._
 
