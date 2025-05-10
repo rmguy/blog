@@ -21,15 +21,13 @@ _Act 1, Scene 1: Death by Red Pill_
 
 Haddie had been trying to learn funny lately. Cats said it was a vital part of "hobnobbery", so she was subtitling everything in her head. She didn't understand the difference between her-funny and them-funny yet, though she was sure it was of some consequence to him.  
 
-_An old joke: Boy meets girl at mom's funeral. Boy likes girl. Girl leaves unexpectedly. Boy searches around for a few days, no luck._
+_An old joke: Boy meets girl at mom's funeral. Instant chemistry. Girl leaves unexpectedly. Boy searches around for a few days, no luck._
 
 How does this end?
 
-_Them-funny: Boy kills dad hoping girl comes for the funeral. Big joke._ 
+_Them-funny: Boy tells therapist. Therapist says: "Maybe try Tinder?". Boy says: "Hmm.. do they have a bereavement filter?".. Big joke._ 
 
-_Her-funny: Years go by. One day Boy wins lifetime supply of frozen dinner. Girl shows up to deliver, but she's carrying a single meal._
-_Boy, confused, asks: where are the rest?.. I won a lifetime's supply._ 
-_Girl replies: this will do, let's eat._ 
+_Her-funny: Boy gets home. Only later realizes.. it wasn't his mom's funeral._
 _Go figure._
 
 Haddie snapped out of her reverie. 
